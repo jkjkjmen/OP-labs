@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     ofstream outFile;
     outFile.open("text.txt");
     outFile << " Taras Krutoi chubs";
+    outFile << " Taras very very krut";
     outFile << " 5";
     cout << "Hello World!" << endl;
     return 0;
